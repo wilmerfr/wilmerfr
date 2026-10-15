@@ -1,7 +1,7 @@
 ### 🧑‍💻 About me
 
 - 🔭 I'm currently working on **Sangfor Technologies**
-- 🌱 I'm currently learning **Python**
+- 🌱 I'm currently learning **C#**
 - 👯 I'm looking to collaborate on open source and personal projects
 - 🤔 I'm looking for help with **React**
 - 💬 Ask me about my favorite programming language
